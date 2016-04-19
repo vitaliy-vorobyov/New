@@ -1,10 +1,10 @@
 @media (min-width: 992px) and (max-width: 1199px) {
 	body {
-		width: 970px;
+		width: 960px;
 	}
 
 	.flash {
-		padding: 0 0 0 260px;
+		padding: 0 0 0 160px;
 	}
 
 	.prof {
@@ -21,9 +21,7 @@
 		width: 1187px;
 	}
 
-	.flash {
-		padding: 0 0 0 360px;
-	}
+
 
 	.prof {
 		margin: 0 0 0 490px;
@@ -49,6 +47,7 @@ body {
 .header {
 	height: 160px;
 	margin-bottom: 8px;
+	width: 33.33333333%;
 }
 
 .flash {
